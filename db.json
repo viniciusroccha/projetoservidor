@@ -1,0 +1,31 @@
+{
+    "bolos": [
+        {
+            "chocolate": 1,
+            "baunilha": 2,
+            "red velvet": 3,
+            "nozes": 4,
+            "mesclada": 5
+        }
+    ],
+
+    "doces": [
+        {
+            "brigadeiro": 1,
+            "beijinho": 2,
+            "cajuzinho": 3,
+            "casadinho": 4,
+            "brigadeiro branco": 5
+        }
+    ],
+
+    "salgados": [
+        {
+            "coxinha": 1,
+            "bolinha de queijo": 2,
+            "quibe": 3,
+            "calabresa": 4,
+            "queijo com presunto": 5
+        }
+    ]
+}
